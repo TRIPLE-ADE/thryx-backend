@@ -18,7 +18,8 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:3001',
   'https://ed-tech-steel.vercel.app',
-  'https://ed-tech-6r0b.onrender.com'
+  'https://ed-tech-6r0b.onrender.com',
+  'https://thryxai.netlify.app'
 ];
 
 app.use(cors({
